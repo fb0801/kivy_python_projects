@@ -1,6 +1,10 @@
 from kivy.app import App
+from kivy.uix.widget import Widget
 
-class thelab(App):
+class MainWidget(Widget):
     pass
 
-thelab().run()
+class TheLabApp(App):
+    pass
+
+TheLabApp().run()
