@@ -10,4 +10,5 @@ Kivy projects
 <li>https://www.javatpoint.com/kivy#Installation</li>
 <li>https://kivy.org/doc/stable-2.0.0/gettingstarted/installation.html#install-pip</li>
 <li>https://kivy.org/doc/stable-1.11.0/installation/installation-windows.html</li>
+<li>https://codewithjonathan.net/resourceskivy</li>
 </ul>
