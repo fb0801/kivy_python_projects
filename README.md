@@ -11,4 +11,5 @@ Kivy projects
 <li>https://kivy.org/doc/stable-2.0.0/gettingstarted/installation.html#install-pip</li>
 <li>https://kivy.org/doc/stable-1.11.0/installation/installation-windows.html</li>
 <li>https://codewithjonathan.net/resourceskivy</li>
+<li> https://www.youtube.com/watch?v=l8Imtec4ReQ </li>
 </ul>
